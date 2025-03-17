@@ -1,6 +1,40 @@
 {
+  "color": {
+    "--white": {
+      "value": "#ffffffff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--black": {
+      "value": "#000000ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--subtitle": {
+      "value": "#014195ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--title": {
+      "value": "#005eadff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-1-0-content-title": {
+      "value": "#17a2b8ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--footer-bg": {
+      "value": "#2c405bff",
+      "type": "color",
+      "blendMode": "normal"
+    }
+  },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": []
+    "tokenSetOrder": [
+      "color"
+    ]
   }
 }
