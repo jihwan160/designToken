@@ -1,5 +1,5 @@
 {
-  "collection 1": {
+  "color": {
     "--white": {
       "value": "#ffffffff",
       "type": "color",
@@ -94,7 +94,7 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "collection 1"
+      "color"
     ]
   }
 }
