@@ -1,5 +1,5 @@
 {
-  "color": {
+  "collection 1": {
     "--white": {
       "value": "#ffffffff",
       "type": "color",
@@ -10,7 +10,7 @@
       "type": "color",
       "blendMode": "normal"
     },
-    "--subtitle": {
+    "--subpage-title": {
       "value": "#014195ff",
       "type": "color",
       "blendMode": "normal"
@@ -20,7 +20,7 @@
       "type": "color",
       "blendMode": "normal"
     },
-    "--sub1-1-0-content-title": {
+    "--sub1-0-content-title": {
       "value": "#17a2b8ff",
       "type": "color",
       "blendMode": "normal"
@@ -29,12 +29,72 @@
       "value": "#2c405bff",
       "type": "color",
       "blendMode": "normal"
+    },
+    "--sub1-1-0-subtitle": {
+      "value": "#777777ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-1-0-subtitle2": {
+      "value": "#6495edff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-1-0-date": {
+      "value": "#a9a9a9ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-tab-on-bg": {
+      "value": "#01419580",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-2-subtitle": {
+      "value": "#6495edff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-2-0-date": {
+      "value": "#a9a9a9ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sub1-2-content-title-bg": {
+      "value": "#ffffffff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--main-notice-hover-bg": {
+      "value": "#fffce5ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--gnb-hover-underline-bg": {
+      "value": "#063a74ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--gnb-tab-hover-bg": {
+      "value": "#eef2f7ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sidetab-hover-underline-bg": {
+      "value": "#063a74ff",
+      "type": "color",
+      "blendMode": "normal"
+    },
+    "--sidetab-hover-bg": {
+      "value": "#eef2f7ff",
+      "type": "color",
+      "blendMode": "normal"
     }
   },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "color"
+      "collection 1"
     ]
   }
 }
